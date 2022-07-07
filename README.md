@@ -58,7 +58,7 @@
 
 
 
-![first](https://github.com/Kyushik/DRL/blob/master/DQN_GAMES/breakout.PNG)  
+![first](https://github.com/Kyushik/DRL/raw/master/Image/breakout.gif)  
 ![second](https://github.com/Kyushik/DRL/raw/master/DQN_GAMES/pong.PNG)  
 ![third](https://github.com/Kyushik/DRL/blob/master/DQN_GAMES/tetris.PNG)
 
